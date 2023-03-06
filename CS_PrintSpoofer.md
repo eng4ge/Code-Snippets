@@ -118,6 +118,3 @@ namespace PrintSpooferNet
     }
 }
 ```
-
-More Info:
-[[Evasion Techniques and Breaching Defenses#12 2 2 Elevation with Impersonation]]
