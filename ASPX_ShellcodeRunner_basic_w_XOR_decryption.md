@@ -41,6 +41,3 @@
 ```
 
 For Encryption use: [[CS_XOR_Encryptor_for_VBA_and_CSHARP]]
-
-More Info:
-[[Evasion Techniques and Breaching Defenses#17 1 2 Gaining an Initial Foothold]]
